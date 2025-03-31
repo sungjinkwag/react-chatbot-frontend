@@ -45,7 +45,7 @@ function App() {
         boxSizing: 'border-box',
       }}
     >
-      <h2 style={{ textAlign: 'center' }}>🧠 React RAG 챗봇</h2>
+      <h2 style={{ textAlign: 'center' }}>React Docs 챗봇</h2>
 
       <div
         style={{
